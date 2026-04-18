@@ -50,7 +50,7 @@ Shi LuoKe (史罗克), 2026
 
 ## Acknowledgment
 
-This code was developed by Shi LuoKe (Chongqing University, 重庆大学) during a visiting PhD period at the Norwegian University of Science and Technology (NTNU). The program is based on a conventional VBI code originally provided by Xu Hao (Chongqing University, 重庆大学), and the theoretical interpretation of the formulation was completed under the guidance of the author's supervisor, Prof. Y.B. Yang (Chongqing University, 重庆大学). The author would like to express special gratitude to Daniel Cantero for his hospitality, support, and valuable suggestions during the visit at NTNU.
+This code was developed by Shi LuoKe (Chongqing University, 重庆大学) during a visiting PhD period at the Norwegian University of Science and Technology (NTNU, Norges teknisk-naturvitenskapelige universitet). The program is based on a conventional VBI code originally provided by Xu Hao (Chongqing University, 重庆大学), and the theoretical interpretation of the formulation was completed under the guidance of the author's supervisor, Prof. Y.B. Yang (Chongqing University, 重庆大学). The author would like to express special gratitude to Daniel Cantero for his hospitality, support, and valuable suggestions during the visit at NTNU.
 
 To improve code readability, the code was organized and formatted with the assistance of Claude (Anthropic). The correctness of the code has been verified by the author.
 
