@@ -33,7 +33,7 @@ function sysParams = f01_loadInputParams()
     % kv  - Vehicle stiffness [N/m]
     % v   - Vehicle speed [m/s]
     % xiv - Vehicle damping ratio [-]
-    sysParams.vehicle.mv  = 10000;
+    sysParams.vehicle.mv  = 1e4;
     sysParams.vehicle.kv  = 3e7;
     sysParams.vehicle.v   = 3;
     sysParams.vehicle.xiv = 0.2;
